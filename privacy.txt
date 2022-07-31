@@ -56,5 +56,9 @@ We reserve the right, but not the obligation, to:
 (4) in our sole discretion and without limitation, notice, or liability, to remove from the Application or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; 
 and 
 (5) otherwise manage the Application in a manner designed to protect our rights and property and to facilitate the proper functioning of the Application.
+
+
+
+
           
  
