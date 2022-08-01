@@ -1,4 +1,4 @@
-Last updated [August, 2022]
+Last updated [Jan, 2021]
 
  DISCLAIMER
  
@@ -8,12 +8,11 @@ Last updated [August, 2022]
                
  We care about data privacy and security. By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use.
  Please be advised the Application is hosted in India. If you access the Application from the European Union, U.S.A., or any other region of the world with laws or other requirements governing personal data collection, use, 
- or disclosure that differ from applicable laws in India. Lootera - Story & Video Saver is an User Driven Application and does not require any user data to function, it only takes storage permission from user to show the content of device to user.
- Login and Sign-in in app is subjected to user permission and Lootera - Story & Video Saver developers are not responsible for any data leak from respective social media platform.
+ or disclosure that differ from applicable laws in India. GetMp3 download songs from other servers and it does provide any license to use its content commercially, it only takes storage permission from user to show the content of device to user.
 
  AGREEMENT TO TERMS
                 
- These Terms and Conditions constitute a legally binding agreement made between you and us, concerning your access to and use of our mobile application Lootera - Story & Video Saver. You agree that by accessing the Application, you have read, understood, and agree to be bound by all of these Terms and Conditions Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS AND CONDITIONS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APPLICATION AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+ These Terms and Conditions constitute a legally binding agreement made between you and us, concerning your access to and use of our mobile application GetMp3. You agree that by accessing the Application, you have read, understood, and agree to be bound by all of these Terms and Conditions Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS AND CONDITIONS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APPLICATION AND YOU MUST DISCONTINUE USE IMMEDIATELY.
                 
  Supplemental terms and conditions or documents that may be posted on the Application from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms and Conditions at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms and Conditions and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms and Conditions to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms and Conditions by your continued use of the Application after the date such revised Terms are posted.
                 
@@ -23,14 +22,10 @@ Last updated [August, 2022]
                 
  INTELLECTUAL PROPERTY RIGHTS
                 
- Unless otherwise indicated, the Application is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Application (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions. Except as expressly provided in these Terms of Use, no part of the Application and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+ Unless otherwise indicated, the Application is our proprietary property and all source code, databases, functionality, software, website designs, text, photographs, and graphics on the Application (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions. Except as expressly provided in these Terms of Use, no part of the Application and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
                 
  Provided that you are eligible to use the Application, you are granted a limited license to access and use the Application and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Application, Content, and the Marks.
              
- ADVERTISEMENTS
-
- Our app use some providers to show ads. These Ads providers can uses cookies only to identifies your device, then show ads that are relevant to our app's kind. We don't share any user's data with Facebook or other parties (Verified by BBC & Privacy International). 
-
  USER GENERATED CONTRIBUTIONS
 
  The Application may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Application, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material. Contributions may be viewable by other users of the Application and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
@@ -51,17 +46,13 @@ Last updated [August, 2022]
                 
  We may accept, reject, or remove reviews in our sole discretion. We have absolutely no obligation to screen reviews or to delete reviews, even if anyone considers reviews objectionable or inaccurate. Reviews are not endorsed by us, and do not necessarily represent our opinions or the views of any of our affiliates or partners. We do not assume liability for any review or for any claims, liabilities, or losses resulting from any review. By posting a review, you hereby grant to us a perpetual, non-exclusive, worldwide, royalty-free, fully-paid, assignable, and sublicensable right and license to reproduce, modify, translate, transmit by any means, display, perform, and/or distribute all content relating to reviews.
       
- APP MANAGEMENT
+APP MANAGEMENT
 
 We reserve the right, but not the obligation, to: 
 (1) monitor the Application for violations of these Terms of Use; 
 (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities;
 (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; 
 (4) in our sole discretion and without limitation, notice, or liability, to remove from the Application or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; 
-and 
-(5) otherwise manage the Application in a manner designed to protect our rights and property and to facilitate the proper functioning of the Application.
-
-
-
-.
+and (5) otherwise manage the Application in a manner designed to protect our rights and property and to facilitate the proper functioning of the Application.
+          
  
